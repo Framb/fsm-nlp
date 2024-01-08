@@ -1,0 +1,21 @@
+
+        Con regreso, por favor. Pasaje de ida y vuelta a Madrid, tengo que volver para el nuevo semestre.
+        Pasaje de ida y vuelta. Mi viaje es solo por una semana.
+        Pasaje de ida y vuelta, pero con flexibilidad en la fecha de retorno, no tengo prisa.
+        Solo ida, me estoy mudando por motivos laborales.
+        Con regreso. Pasaje de ida y vuelta, pero con una estancia larga, quiero sumergirme en la cultura
+        Solo ida, planeo viajar por varios países antes de decidir cuándo volver.
+        Pasaje de ida y vuelta, estaré allí solo para la boda de mi hermana.
+        Con regreso. Necesito un pasaje de ida y vuelta para un breve descanso de fin de semana.
+        Pasajes de ida y vuelta para todos nosotros, es un viaje grupal.
+        Con regreso. Pasaje de ida y vuelta, es nuestro aniversario y queremos celebrarlo y luego volver a casa.
+        Pasaje de ida y vuelta, por favor. Regreso el 15 de marzo.
+        Con regreso. Necesito volver el 22 de abril, después de las vacaciones de Semana Santa.
+        Ida y vuelta. Debo regresar el 1 de septiembre para el inicio del semestre.
+        Pasaje de ida y vuelta. Planeo volver el 28 de julio.
+        Con regreso. Queremos regresar el 10 de noviembre, después de dos semanas.
+        Ida y vuelta, pero por favor que el regreso sea flexible, quizás alrededor del 20 de agosto.
+        Pasaje de ida y vuelta, pensando en regresar el 5 de diciembre.
+        Con regreso. Necesito estar de vuelta el domingo por la noche, así que el 17 de abril.
+        Pasaje de ida y vuelta, regresamos el 30 de junio, después de tres semanas.
+        Ida y vuelta. Mi proyecto termina el 10 de octubre, así que esa sería mi fecha de regreso.

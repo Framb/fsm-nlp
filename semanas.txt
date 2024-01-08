@@ -1,0 +1,11 @@
+
+        "En unas tres semanas más o menos. Estoy ajustando mis planes según el precio."
+        "Puede ser en cualquier momento dentro de las próximas cinco semanas, tengo flexibilidad."
+        "Necesitaría volar en la segunda semana de cada mes, es un viaje recurrente."
+        "¿Cuándo sería más barato en las próximas dos semanas? Mis fechas son flexibles."
+        "En unas seis semanas. Estoy disfrutando de mi jubilación, así que tengo todo el tiempo del mundo."
+        "Prefiero esperar hasta que pase la temporada alta, quizás en ocho semanas."
+        "Necesito estar allí para empezar un nuevo trabajo en cuatro semanas."
+        "Quisiera regresar en aproximadamente doce semanas, estoy en un viaje de exploración."
+        "Tengo que estar allí para el inicio del semestre, así que en aproximadamente una semana."
+        "Mis amigos se unirán en unas diez semanas, así que planeo mi viaje para entonces."
